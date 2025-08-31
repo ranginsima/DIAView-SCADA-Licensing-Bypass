@@ -2,6 +2,10 @@
 
 **Prepared for:** TWCERT/CC & Delta Electronics PSIRT
 
+
+https://github.com/user-attachments/assets/ce4907ed-64d0-4dfd-ac9f-9e2da1250c37
+
+## Affected Versions: Confirmed on v4.3.1. Believed to affect all current, previous, and future versions due to the fundamental nature of the design flaw.
 ---
 
 ## 1. Executive Summary
